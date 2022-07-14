@@ -36,7 +36,7 @@ img {
   }
   
   .funParagraph {
-    color: rgb(76, 74, 55);
+    color: rgb(76, 74, 55), green;
   }
   
   /* changes the colors and font style of the h2 level headers */
